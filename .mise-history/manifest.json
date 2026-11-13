@@ -31,6 +31,7 @@
   "permissions": {
     "config/conf.d": 448,
     "config/conf.d/pref.toml": 384,
+    "config/conf.d/services.toml": 384,
     "config/conf.d/tools.toml": 384,
     "config/config.toml": 384,
     "home/.config": 448,
