@@ -18,6 +18,12 @@
       "autosave": true,
       "encrypt": false,
       "variants": []
+    },
+    {
+      "path": "home/.ssh/authorized_keys",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
     }
   ],
   "exclude": [],
@@ -29,6 +35,8 @@
     "config/config.toml": 384,
     "home/.config": 448,
     "home/.config/fish": 448,
-    "home/.config/fish/config.fish": 384
+    "home/.config/fish/config.fish": 384,
+    "home/.ssh": 448,
+    "home/.ssh/authorized_keys": 384
   }
 }

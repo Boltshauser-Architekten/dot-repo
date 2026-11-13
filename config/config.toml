@@ -2,3 +2,4 @@
 "~/.config/fish/config.fish" = { mode = "track" }
 "~/.config/mise/conf.d" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
+"~/.ssh/authorized_keys" = { mode = "track" }
