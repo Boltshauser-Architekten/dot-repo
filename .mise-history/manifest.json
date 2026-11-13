@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "enrollment": [
+    {
+      "path": "config/conf.d",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "config/config.toml",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    }
+  ],
+  "exclude": [],
+  "recipients": [],
+  "permissions": {
+    "config/conf.d": 448,
+    "config/conf.d/pref.toml": 384,
+    "config/conf.d/tools.toml": 384,
+    "config/config.toml": 384
+  }
+}
