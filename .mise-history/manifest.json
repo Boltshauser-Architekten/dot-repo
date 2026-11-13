@@ -12,6 +12,12 @@
       "autosave": true,
       "encrypt": false,
       "variants": []
+    },
+    {
+      "path": "home/.config/fish/config.fish",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
     }
   ],
   "exclude": [],
@@ -20,6 +26,9 @@
     "config/conf.d": 448,
     "config/conf.d/pref.toml": 384,
     "config/conf.d/tools.toml": 384,
-    "config/config.toml": 384
+    "config/config.toml": 384,
+    "home/.config": 448,
+    "home/.config/fish": 448,
+    "home/.config/fish/config.fish": 384
   }
 }
